@@ -11,6 +11,7 @@ The Consortium will consist of both Member Organizations and Affiliates (individ
 
 ### additional links
 - [Code of Conduct](https://github.com/MetrANOVA/.github/blob/main/profile/code-of-conduct.md)
+- [Consortium Governance](https://github.com/MetrANOVA/.github/blob/main/profile/governance.md)
 
 
 <!--
