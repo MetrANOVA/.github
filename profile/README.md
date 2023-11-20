@@ -15,7 +15,8 @@ The Consortium will consist of both Member Organizations and Affiliates (individ
 - [Consortium Governance](https://github.com/MetrANOVA/.github/blob/main/profile/governance.md)
 - [Contributor Roster](https://github.com/MetrANOVA/.github/blob/main/profile/roster.md)
 
-
+### Members
+![logos](https://github.com/MetrANOVA/.github/blob/main/profile/logos/members.png)
 <!--
 
 **Here are some ideas to get you started:**
