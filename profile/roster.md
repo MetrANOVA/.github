@@ -2,7 +2,7 @@
 - Ed Balas, ESnet
 
 # Executive Committee:
-- Inder Mongo, ESnet
+- Inder Monga, ESnet
 - Ivana Golub, GÉANT (project)
 - James Deaton, Internet2
 - Luke Fowler, Indiana University
