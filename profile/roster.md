@@ -1,7 +1,7 @@
 # Consortium Lead:
 - Ed Balas, ESnet
 
-#Workstream Leads:
+# Workstream Leads:
 - David Ripley, Policy, Indiana University
 - Andy Lake, Technical, ESnet
 
